@@ -1,0 +1,11 @@
+@charset "UTF-8";
+
+#loginForm .btn{
+	margin-top:5px;
+}
+
+.checkbox{
+	font-size:10px;
+	position:relative;
+	left:7%
+}
